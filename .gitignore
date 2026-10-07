@@ -1,0 +1,23 @@
+# Node.js / Frontend
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+.env.local
+.env.*.local
+frontend/.env
+*.log
+
+# Python / Django / Backend
+backend/venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+backend/db.sqlite3
+*.sqlite3
+backend/.env
+.vscode/
+.idea/
